@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+     align-items: center;
+     background-color: rgb(249, 249, 249);
+     height: 100vh;
+}
+#input{
+    margin-left: 10px;
+}
+.container{
+    background-color: rgb(204, 204, 204);
+    width: 70vh;
+    padding: 25px 25px 25px 25px;
+    border-radius: 10px;
+}
+.amount{
+    display: flex;
+    align-items: center;
+}
+.dropdrown{
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+}
+img{
+    height: 3vw;
+    width:3vw
+}
+#exchange-icon{
+    margin-top: 15px;
+}
+form button {
+    height: 40px;
+    border-radius: 10px;
+  }
+
+  .msg {
+    margin: 2rem 0 2rem 0;
+  }
+
